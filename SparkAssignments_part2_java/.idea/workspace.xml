@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b06c0f4-a866-40fd-beb0-8606c08de868" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZfVz6N6WaqjD28B0UAsYckg0X5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SparkApplicationLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spark.infsci2750.part2.runner.SparkApplicationLauncher" />
+      <module name="SparkAssignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spark.infsci2750.part2.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SparkApplicationLauncher" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b06c0f4-a866-40fd-beb0-8606c08de868" name="Default Changelist" comment="" />
+      <created>1585230395337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585230395337</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1638" height="512" key="GridCell.Tab.0.bottom" timestamp="1585256817675">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1638" height="512" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1585233207173" />
+    <state width="1638" height="512" key="GridCell.Tab.0.bottom/0.23.1680.972@0.23.1680.972" timestamp="1585256817675" />
+    <state width="1638" height="512" key="GridCell.Tab.0.center" timestamp="1585256817674">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1638" height="512" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1585233207172" />
+    <state width="1638" height="512" key="GridCell.Tab.0.center/0.23.1680.972@0.23.1680.972" timestamp="1585256817674" />
+    <state width="1638" height="512" key="GridCell.Tab.0.left" timestamp="1585256817674">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1638" height="512" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1585233207171" />
+    <state width="1638" height="512" key="GridCell.Tab.0.left/0.23.1680.972@0.23.1680.972" timestamp="1585256817674" />
+    <state width="1638" height="512" key="GridCell.Tab.0.right" timestamp="1585256817675">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1638" height="512" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1585233207173" />
+    <state width="1638" height="512" key="GridCell.Tab.0.right/0.23.1680.972@0.23.1680.972" timestamp="1585256817675" />
+    <state x="517" y="341" key="com.intellij.ide.util.TipDialog" timestamp="1585230401734">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state x="517" y="341" key="com.intellij.ide.util.TipDialog/0.23.1680.972@0.23.1680.972" timestamp="1585230401734" />
+  </component>
+</project>
