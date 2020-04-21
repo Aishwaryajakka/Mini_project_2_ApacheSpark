@@ -1,6 +1,6 @@
-==========================
-Preparations for Part 2 and Part 3:
-==========================
+
+# Preparations for Part 2 and Part 3:
+
 
 1. Copy relevant files to VM:
 
@@ -35,9 +35,9 @@ Change into directory of the files and paste the command below:
 - hdfs dfs -put access_log Mini_proj_2
 - hdfs dfs -put user_artists.dat Mini_proj_2
 
-====================================
-Part 2: Spark Program - Artist Listening Counts
-====================================
+
+# Part 2: Spark Program - Artist Listening Counts
+
 
 The task is to printout the total listening counts of each artist.
 The program will print out the listening counts of each artist in descending order.
@@ -50,9 +50,8 @@ Log into VM:
 You can also run it as a python file to quickly see outputs/ for debugging purposes:
 - python3 part2_listening_counts.py
 
-======================
-Part 3: Spark Program - Logs
-======================
+# Part 3: Spark Program - Logs
+
 
 Log into VM:
 - cd ~/Mini_proj_2
@@ -62,7 +61,7 @@ Log into VM:
 You can also run it as a python file to quickly see outputs/ for debugging purposes:
 - python3 part3_access_logs.py
 
-==================
-To Stop Hadoop Cluster:
-==================
+
+# To Stop Hadoop Cluster:
+
 - stop-all.sh
